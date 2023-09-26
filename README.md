@@ -2,9 +2,8 @@
 
 visit:https://articlesharing.co.in/ImageSearchingApp/index.php
 
-Certainly! Here's a description for your image searching website with an API:
+Website Title: Image Searching website
 
-Website Title: Image Search Hub
 
 Description:
 
